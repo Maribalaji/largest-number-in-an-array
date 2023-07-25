@@ -19,4 +19,4 @@ for(let i=0;i<arr;i++){
 b.push(a[i]);
 }
 document.write("a="+b+"<br>");
-document.write(n+"Largest Number:"+b[n-1]);
+document.write(n+"&nbsp Largest Number:"+b[n-1]);
